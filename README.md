@@ -51,6 +51,10 @@
 
 ###### 由于文章篇幅问题，具体详解可下方链接阅读；
 
+![Block详解.gif](http://upload-images.jianshu.io/upload_images/2230763-c01bc512149bd655.gif?imageMogr2/auto-orient/strip)
+
+
+
 🔗[简书](http://www.jianshu.com/u/fd745d76c816)
 
 🔗[博客](https://custompbwaters.github.io)
