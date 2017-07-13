@@ -1,10 +1,6 @@
 ## Block-BreakDown
  
 
-当你**「工作使用 & 面试概念原理」**的时候，网搜的众多中 ~ ~（自行脑补），
-
-对于从事 **iOS** 开发人员来说，不会使用 **Block**，那 ~ ~
- 
 下面是我对 `Block` 的整理，从零开始，由浅入深，并且带了几个 `Block` 实际开发的应用场景。
 
 
@@ -33,7 +29,7 @@
 
 
 
-###### 由于文章篇幅问题，具体详解可下方链接阅读； [http://www.jianshu.com/p/b0116945d450](http://www.jianshu.com/p/b0116945d450)
+###### 具体详解可下方链接阅读； [http://www.jianshu.com/p/b0116945d450](http://www.jianshu.com/p/b0116945d450)
 
 ![Block详解.gif](http://upload-images.jianshu.io/upload_images/2230763-c01bc512149bd655.gif?imageMogr2/auto-orient/strip)
 
@@ -46,13 +42,6 @@
 ***
 
 【[博客](https://custompbwaters.github.io)】  【[简书](http://www.jianshu.com/u/fd745d76c816)】   【[掘金](https://juejin.im/post/5948b282da2f600067910186)】  【[公众号: 白开水ln](https://github.com/CustomPBWaters/Framework-Annotations-Category)】  【[译文 & 源码](https://github.com/CustomPBWaters/Apple-OfficialTranslation-SourceAnnotation)】   【[工具类](https://github.com/CustomPBWaters/Framework-Annotations-Category)】
-
-
-【白开水ln】：(我) 也是对【所花费时间的一个总结】！
-
-【白开水ln】：(我) 只是个【有思想的伐码猿🐒】加上【自己的学习总结☕️】写出来的文章 ！
-
-【白开水ln】：(我) 得文章【对你有新思想 或是 习惯】，你的 「Star & Fork」 是对我最大的赞赏 ！
 
 
 
