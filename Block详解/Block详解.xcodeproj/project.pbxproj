@@ -151,14 +151,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		760E39B21F42AE9800CA2895 /* 请 为你的高效阅读赞赏支持orStar一波 ！关注 微众@白开水ln 分享伐码经验&可吸收思想的文章！期待你 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			name = "请 为你的高效阅读赞赏支持orStar一波 ！关注 微众@白开水ln 分享伐码经验&可吸收思想的文章！期待你";
-			path = "Block详解";
-			sourceTree = "<group>";
-		};
 		76C5928C1E8BBF3800D71E40 = {
 			isa = PBXGroup;
 			children = (
@@ -166,7 +158,6 @@
 				76C592B11E8BBF3900D71E40 /* Block详解Tests */,
 				76C592BC1E8BBF3900D71E40 /* Block详解UITests */,
 				76C592961E8BBF3900D71E40 /* Products */,
-				760E39B21F42AE9800CA2895 /* 请 为你的高效阅读赞赏支持orStar一波 ！关注 微众@白开水ln 分享伐码经验&可吸收思想的文章！期待你 */,
 			);
 			sourceTree = "<group>";
 		};
