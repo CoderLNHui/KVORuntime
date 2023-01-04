@@ -1,4 +1,4 @@
-# Runtime 实现防止 KV O的重复添加或删除
+# Runtime 实现防止 KVO 的重复添加或删除
 
 ## **KVO**（`KeyValueObersver`）键值监听-实现原理
 
@@ -129,7 +129,7 @@ student.name = @"KVO 手动发送通知机制";
     _property 里面的NSKeyValueProperty，NSKeyValueProperty存储的有keyPath
 
 
-### pragma mark - KVO拦截
+### KVO拦截
 
 - 使用场景
 
